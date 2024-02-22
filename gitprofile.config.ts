@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'UnderWater Image Enhancement Using Hybrid_Real-ESRGAN',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Image enhancement would increase the sharpness and intensity of the underwater images. By increasing the factors of the pixels, the object can be visible clearly in the underwater images. ',
           imageUrl:
             'https:https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechxplore.com%2Fnews%2F2024-01-multiscale-feature-modulation-network-advanced.html&psig=AOvVaw1w8owqFQsixbKUvxPkiB21&ust=1708705149978000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDF9vGsv4QDFQAAAAAdAAAAABAE',
           link: 'https://colab.research.google.com/drive/1cqWY80S16ACesLwEU47UlySF1UdGkwa4',
