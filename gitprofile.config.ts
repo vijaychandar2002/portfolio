@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'UnderWater Image Enhancement Using Hybrid_Real-ESRGAN',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https:https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechxplore.com%2Fnews%2F2024-01-multiscale-feature-modulation-network-advanced.html&psig=AOvVaw1w8owqFQsixbKUvxPkiB21&ust=1708705149978000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDF9vGsv4QDFQAAAAAdAAAAABAE',
+          link: 'https://colab.research.google.com/drive/1cqWY80S16ACesLwEU47UlySF1UdGkwa4',
         },
         {
           title: 'Project Name',
